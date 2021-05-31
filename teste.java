@@ -17,4 +17,8 @@ public class aula1_main {
         System.out.print("-");
         System.out.print(localDate.getYear());
     }
+
+    private void teste(){
+	 System.out.print("teste");
+    }
 }
